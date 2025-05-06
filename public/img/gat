@@ -1,0 +1,2492 @@
+
+<!DOCTYPE html>
+<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" class="s-light site-s-light">
+
+<head>
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+            <script data-no-defer="1" data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer data-cookieconsent="ignore">
+                var ctPublicFunctions = {"_ajax_nonce":"7c601a445f","_rest_nonce":"fc3c35e912","_ajax_url":"\/wp-admin\/admin-ajax.php","_rest_url":"https:\/\/scitechdaily.com\/wp-json\/","data__cookies_type":"alternative","data__ajax_type":"rest","data__bot_detector_enabled":"0","data__frontend_data_log_enabled":1,"cookiePrefix":"","wprocket_detected":false,"host_url":"scitechdaily.com","text__ee_click_to_select":"Click to select the whole data","text__ee_original_email":"The original one is","text__ee_got_it":"Got it","text__ee_blocked":"Blocked","text__ee_cannot_connect":"Cannot connect","text__ee_cannot_decode":"Can not decode email. Unknown reason","text__ee_email_decoder":"CleanTalk email decoder","text__ee_wait_for_decoding":"The magic is on the way, please wait for a few seconds!","text__ee_decoding_process":"Decoding the contact data, let us a few seconds to finish."}
+            </script>
+        
+            <script data-no-defer="1" data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer data-cookieconsent="ignore">
+                var ctPublic = {"_ajax_nonce":"7c601a445f","settings__forms__check_internal":"0","settings__forms__check_external":"0","settings__forms__force_protection":"0","settings__forms__search_test":"1","settings__data__bot_detector_enabled":"0","settings__sfw__anti_crawler":0,"blog_home":"https:\/\/scitechdaily.com\/","pixel__setting":"0","pixel__enabled":false,"pixel__url":null,"data__email_check_before_post":"0","data__email_check_exist_post":"0","data__cookies_type":"alternative","data__key_is_ok":true,"data__visible_fields_required":true,"wl_brandname":"Anti-Spam by CleanTalk","wl_brandname_short":"CleanTalk","ct_checkjs_key":1606290063,"emailEncoderPassKey":"5f8adc9a6cebfbf6ee1712975e78ce72","bot_detector_forms_excluded":"W10=","advancedCacheExists":false,"varnishCacheExists":false,"wc_ajax_add_to_cart":false}
+            </script>
+        
+	<!-- This site is optimized with the Yoast SEO plugin v24.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>How AI Is Learning to Think on Its Own Like Humans</title><link rel="preload" as="font" href="https://scitechdaily.com/wp-content/themes/smart-mag/css/icons/fonts/ts-icons.woff2?v3.2" type="font/woff2" crossorigin="anonymous" />
+	<link rel="canonical" href="https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"NewsArticle","@id":"https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/#article","isPartOf":{"@id":"https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/"},"author":"Cell Press","headline":"How AI Is Learning to Think on Its Own Like Humans","datePublished":"2024-09-18T21:00:20+00:00","dateModified":"2024-09-21T08:16:01+00:00","mainEntityOfPage":{"@id":"https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/"},"wordCount":717,"commentCount":3,"publisher":{"@id":"https://scitechdaily.com/#organization"},"image":{"@id":"https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/#primaryimage"},"thumbnailUrl":"https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg","keywords":["Artificial Intelligence","Cell Press","Cognition","Learning","Popular"],"articleSection":["Technology"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/#respond"]}]},{"@type":"WebPage","@id":"https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/","url":"https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/","name":"How AI Is Learning to Think on Its Own Like Humans","isPartOf":{"@id":"https://scitechdaily.com/#website"},"primaryImageOfPage":{"@id":"https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/#primaryimage"},"image":{"@id":"https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/#primaryimage"},"thumbnailUrl":"https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg","datePublished":"2024-09-18T21:00:20+00:00","dateModified":"2024-09-21T08:16:01+00:00","breadcrumb":{"@id":"https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/#primaryimage","url":"https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg","contentUrl":"https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg","width":2000,"height":1143,"caption":"Artificial Intelligence Robot Thinking Brain"},{"@type":"BreadcrumbList","@id":"https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"SciTechDaily","item":"https://scitechdaily.com/"},{"@type":"ListItem","position":2,"name":"How AI Is Learning to Think on Its Own Like Humans"}]},{"@type":"WebSite","@id":"https://scitechdaily.com/#website","url":"https://scitechdaily.com/","name":"SciTechDaily","description":"Science, Space and Technology News 2025","publisher":{"@id":"https://scitechdaily.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://scitechdaily.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://scitechdaily.com/#organization","name":"SciTechDaily","url":"https://scitechdaily.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://scitechdaily.com/#/schema/logo/image/","url":"https://scitechdaily.com/images/scitechdaily-slogo.png","contentUrl":"https://scitechdaily.com/images/scitechdaily-slogo.png","width":200,"height":200,"caption":"SciTechDaily"},"image":{"@id":"https://scitechdaily.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/scitechdaily","https://x.com/SciTechDaily1","https://www.youtube.com/@scitechdaily"]},{"@type":"Person","@id":"https://scitechdaily.com/#/schema/person/0835c4deb3d8fede6625aa47fc21e767","name":"Mike O'Neill","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://scitechdaily.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/8190b2b4acca5b2f0d66619630607a4c56cc6a073e5f5d4c4e2dcc2b106bd805?s=96&d=identicon&r=pg","contentUrl":"https://secure.gravatar.com/avatar/8190b2b4acca5b2f0d66619630607a4c56cc6a073e5f5d4c4e2dcc2b106bd805?s=96&d=identicon&r=pg","caption":"Mike O'Neill"},"sameAs":["http://www.scitechdaily.com"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//scripts.pubnation.com' />
+<link rel='dns-prefetch' href='//js.trendmd.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="SciTechDaily &raquo; Feed" href="https://scitechdaily.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SciTechDaily &raquo; Comments Feed" href="https://scitechdaily.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SciTechDaily &raquo; How AI Is Learning to Think on Its Own Like Humans Comments Feed" href="https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/scitechdaily.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://scitechdaily.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cleantalk-public-css-css' href='https://scitechdaily.com/wp-content/plugins/cleantalk-spam-protect/css/cleantalk-public.min.css?ver=6.54_1744788011' type='text/css' media='all' />
+<link rel='stylesheet' id='cleantalk-email-decoder-css-css' href='https://scitechdaily.com/wp-content/plugins/cleantalk-spam-protect/css/cleantalk-email-decoder.min.css?ver=6.54_1744788011' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-core-css' href='https://scitechdaily.com/wp-content/themes/smart-mag/style.css?ver=10.3.0' type='text/css' media='all' />
+<style id='smartmag-core-inline-css' type='text/css'>
+:root { --c-main: #4696d6;
+--c-main-rgb: 70,150,214;
+--ui-font: "Roboto", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--title-font: "Roboto", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--h-font: "Roboto", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--title-font: "Noto Sans", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--h-font: "Noto Sans", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+--title-size-xs: 15px;
+--wrap-padding: 36px;
+--c-post-meta: #2b2b2b;
+--c-excerpts: #2b2b2b;
+--excerpt-size: 14px; }
+.post-title:not(._) { font-weight: 600; }
+:root { --sidebar-pad: 30px; --sidebar-sep-pad: 30px; }
+.main-sidebar .widget { margin-bottom: 45px; }
+.smart-head-main { --c-shadow: rgba(114,114,114,0.15); }
+.smart-head-main .smart-head-mid { --head-h: 80px; }
+.smart-head-main .spc-social { --spc-social-fs: 15px; }
+.smart-head-main .logo-is-image { padding-bottom: 5px; }
+.smart-head-main .search-icon { --item-mr: 7px; }
+.smart-head-mobile { --search-icon-size: 18px; }
+.smart-head-mobile .offcanvas-toggle { transform: scale(.8); }
+.upper-footer .block-head { --line-weight: 2px; }
+.post-meta .meta-item, .post-meta .text-in { font-size: 10px; font-weight: bold; text-transform: uppercase; }
+.post-meta .text-in, .post-meta .post-cat > a { font-size: 10px; }
+.post-meta .post-cat > a { font-weight: bold; text-transform: uppercase; }
+.post-meta .post-author > a { font-weight: bold; text-transform: uppercase; }
+.s-light .block-wrap.s-dark { --c-post-meta: var(--c-contrast-450); }
+.s-dark, .s-light .block-wrap.s-dark { --c-post-meta: #ffffff; }
+.post-meta .post-author > a { color: #2b2b2b; }
+.s-dark .post-meta .post-author > a { color: #ffffff; }
+.s-dark .post-meta .post-cat > a { color: #ffffff; }
+.l-post { --media-radius: 3px; }
+.s-dark { --c-excerpts: #e2e2e2; }
+.cat-labels .category { font-size: 10px; letter-spacing: 0.05em; border-radius: 2px; padding-top: 1px; }
+.loop-grid-base .post-title { font-size: 17px; }
+.loop-grid-sm .post-title { font-size: 15px; }
+.has-nums-a .l-post .post-title:before,
+.has-nums-b .l-post .content:before { font-size: 30px; font-weight: normal; }
+.has-nums-c .l-post .post-title:before,
+.has-nums-c .l-post .content:before { font-size: 18px; font-weight: bold; }
+.loop-list .post-title { font-size: 20px; }
+.loop-overlay .post-title { font-size: 24px; }
+.post-share-float .service { width: 40px; height: 38px; margin-bottom: 6px; border-radius: 3px; }
+.post-share-b:not(.is-not-global) { --service-height: 36px; --service-width: 130px; --service-min-width: initial; --service-b-radius: 4px; }
+.post-share-b:not(.is-not-global) .service .label { font-size: 11.5px; }
+.site-s-light .s-head-modern .sub-title { color: #6d6d6d; }
+@media (min-width: 1200px) { .entry-content { font-size: 16px; } }
+@media (min-width: 768px) and (max-width: 940px) { .ts-contain, .main { padding-left: 35px; padding-right: 35px; } }
+@media (max-width: 767px) { .ts-contain, .main { padding-left: 25px; padding-right: 25px; }
+.entry-content { font-size: 15px; } }
+@media (min-width: 940px) and (max-width: 1300px) { :root { --wrap-padding: min(36px, 5vw); } }
+
+
+</style>
+<style id="smartmag-fonts-css" media="all">/* vietnamese */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgDcld1sdfg.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgDckd1sdfg.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgDcqd1s.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNJfJ7Cww.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNIfJ7Cww.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNJfJ7Cww.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNIfJ7Cww.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNJfJ7Cww.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNIfJ7Cww.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNJfJ7Cww.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNIfJ7Cww.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/publicsans/v18/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+<link rel='stylesheet' id='smartmag-magnific-popup-css' href='https://scitechdaily.com/wp-content/themes/smart-mag/css/lightbox.css?ver=10.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-icons-css' href='https://scitechdaily.com/wp-content/themes/smart-mag/css/icons/icons.css?ver=10.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='smart-mag-child-css' href='https://scitechdaily.com/wp-content/themes/scitech4/style.css?ver=1.0' type='text/css' media='all' />
+<style id="smartmag-gfonts-custom-css" media="all">/* cyrillic-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aPdu2ui.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5ardu2ui.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a_du2ui.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aLdu2ui.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a3du2ui.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aHdu2ui.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aDdu2ui.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aPdu2ui.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5ardu2ui.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a_du2ui.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aLdu2ui.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a3du2ui.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aHdu2ui.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aDdu2ui.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aPdu2ui.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5ardu2ui.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a_du2ui.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aLdu2ui.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a3du2ui.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aHdu2ui.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aDdu2ui.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aPdu2ui.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5ardu2ui.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a_du2ui.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aLdu2ui.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a3du2ui.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aHdu2ui.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aDdu2ui.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+<script type="text/javascript" id="smartmag-lazy-inline-js-after">
+/* <![CDATA[ */
+/**
+ * @copyright ThemeSphere
+ * @preserve
+ */
+var BunyadLazy={};BunyadLazy.load=function(){function a(e,n){var t={};e.dataset.bgset&&e.dataset.sizes?(t.sizes=e.dataset.sizes,t.srcset=e.dataset.bgset):t.src=e.dataset.bgsrc,function(t){var a=t.dataset.ratio;if(0<a){const e=t.parentElement;if(e.classList.contains("media-ratio")){const n=e.style;n.getPropertyValue("--a-ratio")||(n.paddingBottom=100/a+"%")}}}(e);var a,o=document.createElement("img");for(a in o.onload=function(){var t="url('"+(o.currentSrc||o.src)+"')",a=e.style;a.backgroundImage!==t&&requestAnimationFrame(()=>{a.backgroundImage=t,n&&n()}),o.onload=null,o.onerror=null,o=null},o.onerror=o.onload,t)o.setAttribute(a,t[a]);o&&o.complete&&0<o.naturalWidth&&o.onload&&o.onload()}function e(t){t.dataset.loaded||a(t,()=>{document.dispatchEvent(new Event("lazyloaded")),t.dataset.loaded=1})}function n(t){"complete"===document.readyState?t():window.addEventListener("load",t)}return{initEarly:function(){var t,a=()=>{document.querySelectorAll(".img.bg-cover:not(.lazyload)").forEach(e)};"complete"!==document.readyState?(t=setInterval(a,150),n(()=>{a(),clearInterval(t)})):a()},callOnLoad:n,initBgImages:function(t){t&&n(()=>{document.querySelectorAll(".img.bg-cover").forEach(e)})},bgLoad:a}}(),BunyadLazy.load.initEarly();
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://scitechdaily.com/wp-content/plugins/cleantalk-spam-protect/js/apbct-public-bundle.min.js?ver=6.54_1744788011" id="apbct-public-bundle-js-js"></script>
+<script type="text/javascript" async="async" fetchpriority="high" data-noptimize="1" data-cfasync="false" src="https://scripts.pubnation.com/tags/scitechdaily.js?ver=6.8" id="mv-script-wrapper-js"></script>
+<script type="text/javascript" src="//js.trendmd.com/trendmd.min.js?ver=6.8" id="newscript-js"></script>
+<script type="text/javascript" src="https://scitechdaily.com/wp-content/themes/scitech4/category-prompt.js?ver=6.8" id="category-prompt-js"></script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-W2V0N2TS2C" id="google_gtagjs-js" async></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["scitechdaily.com"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-W2V0N2TS2C");
+/* ]]> */
+</script>
+
+<!-- End Google tag (gtag.js) snippet added by Site Kit -->
+<script type="text/javascript" src="https://scitechdaily.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://scitechdaily.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://scitechdaily.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://scitechdaily.com/wp-json/wp/v2/posts/414195" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://scitechdaily.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8" />
+<link rel='shortlink' href='https://scitechdaily.com/?p=414195' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://scitechdaily.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://scitechdaily.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&#038;format=xml" />
+<style>
+.tabs{font-size:0;margin-left:auto;margin-right:auto}.tabs>input[type=radio]{display:none}.tabs>div{display:none;border:1px solid #e0e0e0;padding:10px 15px;font-size:16px;overflow:hidden;text-overflow:ellipsis}#tab-btn-1:checked~#content-1,#tab-btn-2:checked~#content-2,#tab-btn-3:checked~#content-3,#tab-btn-4:checked~#content-4,#tab-btn-5:checked~#content-5,#tab-btn-6:checked~#content-6{display:block}.tabs>label{display:inline-block;text-align:center;vertical-align:middle;user-select:none;background-color:#f5f5f5;border:1px solid #e0e0e0;padding:2px 8px;font-size:16px;line-height:1.5;transition:color .15s ease-in-out,background-color .15s ease-in-out;cursor:pointer;position:relative;top:1px}.tabs>label:not(:first-of-type){border-left:none}.tabs>input[type=radio]:checked+label{background-color:#fff;border-bottom:1px solid #fff}
+</style>
+<meta name="generator" content="Site Kit by Google 1.151.0" />
+		<script>
+		var BunyadSchemeKey = 'bunyad-scheme';
+		(() => {
+			const d = document.documentElement;
+			const c = d.classList;
+			var scheme = localStorage.getItem(BunyadSchemeKey);
+			
+			if (scheme) {
+				d.dataset.origClass = c;
+				scheme === 'dark' ? c.remove('s-light', 'site-s-light') : c.remove('s-dark', 'site-s-dark');
+				c.add('site-s-' + scheme, 's-' + scheme);
+			}
+		})();
+		</script>
+		<meta name="generator" content="Elementor 3.28.3; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+      OneSignalDeferred.push(function(OneSignal) {
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['serviceWorkerParam'] = { scope: '/' };
+oneSignal_options['serviceWorkerPath'] = 'OneSignalSDKWorker.js.php';
+
+        OneSignal.Notifications.setDefaultUrl("https://scitechdaily.com");
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '626f7599-8b63-48b5-a388-8d168fa051a8';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://scitechdaily.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.235723f6-f2ef-49f2-bb5e-e966332d4e54";
+oneSignal_options['promptOptions'] = { };
+          /* OneSignal: Using custom SDK initialization. */
+                });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.Notifications.requestPermission(); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			
+<!-- START - Open Graph and Twitter Card Tags 3.3.5 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="SciTechDaily"/>
+  <meta property="og:title" content="How AI Is Learning to Think on Its Own Like Humans"/>
+  <meta property="og:url" content="https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="From Einstein&#039;s thought experiments to the self-correcting capabilities of AI models, thought-based learning transcends human minds to influence artificial intelligence. New research highlights how AI, like humans, learns through explanation, simulation, analogy, and reasoning without external in"/>
+  <meta property="og:image" content="https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg"/>
+  <meta property="og:image:url" content="https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg"/>
+  <meta property="og:image:secure_url" content="https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg"/>
+  <meta property="og:image:width" content="2000"/>
+  <meta property="og:image:height" content="1143"/>
+  <meta property="article:published_time" content="2024-09-18T14:00:20-07:00"/>
+  <meta property="article:modified_time" content="2024-09-21T01:16:01-07:00" />
+  <meta property="og:updated_time" content="2024-09-21T01:16:01-07:00" />
+  <meta property="article:section" content="Technology"/>
+  <meta property="article:publisher" content="https://www.facebook.com/scitechdaily"/>
+  <meta property="fb:app_id" content="227500587331095"/>
+ <!-- Google+ / Schema.org -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="How AI Is Learning to Think on Its Own Like Humans"/>
+  <meta name="twitter:url" content="https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/"/>
+  <meta name="twitter:description" content="From Einstein&#039;s thought experiments to the self-correcting capabilities of AI models, thought-based learning transcends human minds to influence artificial intelligence. New research highlights how AI, like humans, learns through explanation, simulation, analogy, and reasoning without external in"/>
+  <meta name="twitter:image" content="https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+ <!-- is_singular | yoast_seo -->
+<!-- END - Open Graph and Twitter Card Tags 3.3.5 -->
+	
+
+
+</head>
+
+<body class="wp-singular post-template-default single single-post postid-414195 single-format-standard wp-theme-smart-mag wp-child-theme-scitech4 right-sidebar post-layout-modern post-cat-4 has-lb has-lb-sm ts-img-hov-fade layout-normal elementor-default elementor-kit-404331">
+
+
+
+<div class="main-wrap">
+
+	
+<div class="off-canvas-backdrop"></div>
+<div class="mobile-menu-container off-canvas s-dark hide-menu-lg" id="off-canvas">
+
+	<div class="off-canvas-head">
+		<a href="#" class="close">
+			<span class="visuallyhidden">Close Menu</span>
+			<i class="tsi tsi-times"></i>
+		</a>
+
+		<div class="ts-logo">
+					</div>
+	</div>
+
+	<div class="off-canvas-content">
+
+					<ul class="mobile-menu"></ul>
+		
+		
+		
+		<div class="spc-social-block spc-social spc-social-b smart-head-social">
+		
+			
+				<a href="https://www.facebook.com/scitechdaily" class="link service s-facebook" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-facebook"></i>					<span class="visuallyhidden">Facebook</span>
+				</a>
+									
+			
+				<a href="https://twitter.com/SciTechDaily1" class="link service s-twitter" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-twitter"></i>					<span class="visuallyhidden">X (Twitter)</span>
+				</a>
+									
+			
+				<a href="#" class="link service s-instagram" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-instagram"></i>					<span class="visuallyhidden">Instagram</span>
+				</a>
+									
+			
+		</div>
+
+		
+	</div>
+
+</div>
+<div class="smart-head smart-head-a smart-head-main" id="smart-head" data-sticky="auto" data-sticky-type="smart" data-sticky-full>
+	
+	<div class="smart-head-row smart-head-mid is-light smart-head-row-full">
+
+		<div class="inner wrap">
+
+							
+				<div class="items items-left ">
+					<a href="https://scitechdaily.com/" title="SciTechDaily" rel="home" class="logo-link ts-logo logo-is-image">
+		<span>
+			
+				
+					<img src="https://scitechdaily.com/images/scitechdaily-logo-flat-40.png" class="logo-image" alt="SciTechDaily" srcset="https://scitechdaily.com/images/scitechdaily-logo-flat-40.png ,https://scitechdaily.com/images/scitechdaily-logo-flat-80.png 2x" width="271" height="40"/>
+									 
+					</span>
+	</a>	<div class="nav-wrap">
+		<nav class="navigation navigation-main nav-hov-a">
+			<ul id="menu-categories" class="menu"><li id="menu-item-3588" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-1032 menu-item-3588"><a href="https://scitechdaily.com/news/biology/">Biology</a></li>
+<li id="menu-item-30616" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-4694 menu-item-30616"><a href="https://scitechdaily.com/news/chemistry/">Chemistry</a></li>
+<li id="menu-item-30619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-4697 menu-item-30619"><a href="https://scitechdaily.com/news/earth/">Earth</a></li>
+<li id="menu-item-30617" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-4695 menu-item-30617"><a href="https://scitechdaily.com/news/health/">Health</a></li>
+<li id="menu-item-30618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-4696 menu-item-30618"><a href="https://scitechdaily.com/news/physics/">Physics</a></li>
+<li id="menu-item-285" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-3 menu-item-285"><a href="https://scitechdaily.com/news/science/">Science</a></li>
+<li id="menu-item-3216" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-939 menu-item-3216"><a href="https://scitechdaily.com/news/space/">Space</a></li>
+<li id="menu-item-284" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-cat-4 menu-item-284"><a href="https://scitechdaily.com/news/technology/">Technology</a></li>
+</ul>		</nav>
+	</div>
+				</div>
+
+							
+				<div class="items items-center empty">
+								</div>
+
+							
+				<div class="items items-right ">
+				
+		<div class="spc-social-block spc-social spc-social-a smart-head-social">
+		
+			
+				<a href="https://www.facebook.com/scitechdaily" class="link service s-facebook" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-facebook"></i>					<span class="visuallyhidden">Facebook</span>
+				</a>
+									
+			
+				<a href="https://twitter.com/SciTechDaily1" class="link service s-twitter" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-twitter"></i>					<span class="visuallyhidden">X (Twitter)</span>
+				</a>
+									
+			
+				<a href="https://www.pinterest.com/scitechdaily/" class="link service s-pinterest" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-pinterest-p"></i>					<span class="visuallyhidden">Pinterest</span>
+				</a>
+									
+			
+				<a href="https://www.youtube.com/@SciTechDaily" class="link service s-youtube" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-youtube-play"></i>					<span class="visuallyhidden">YouTube</span>
+				</a>
+									
+			
+				<a href="https://scitechdaily.com/feed/" class="link service s-rss" target="_blank" rel="nofollow noopener">
+					<i class="icon tsi tsi-rss"></i>					<span class="visuallyhidden">RSS</span>
+				</a>
+									
+			
+		</div>
+
+		
+<div class="scheme-switcher has-icon-only">
+	<a href="#" class="toggle is-icon toggle-dark" title="Switch to Dark Design - easier on eyes.">
+		<i class="icon tsi tsi-moon"></i>
+	</a>
+	<a href="#" class="toggle is-icon toggle-light" title="Switch to Light Design.">
+		<i class="icon tsi tsi-bright"></i>
+	</a>
+</div>
+
+	<a href="#" class="search-icon has-icon-only is-icon" title="Search">
+		<i class="tsi tsi-search"></i>
+	</a>
+
+				</div>
+
+						
+		</div>
+	</div>
+
+	</div>
+<div class="smart-head smart-head-a smart-head-mobile" id="smart-head-mobile" data-sticky="mid" data-sticky-type="smart" data-sticky-full>
+	
+	<div class="smart-head-row smart-head-mid smart-head-row-3 s-dark smart-head-row-full">
+
+		<div class="inner wrap">
+
+							
+				<div class="items items-left ">
+				
+<button class="offcanvas-toggle has-icon" type="button" aria-label="Menu">
+	<span class="hamburger-icon hamburger-icon-a">
+		<span class="inner"></span>
+	</span>
+</button>				</div>
+
+							
+				<div class="items items-center ">
+					<a href="https://scitechdaily.com/" title="SciTechDaily" rel="home" class="logo-link ts-logo logo-is-image">
+		<span>
+			
+				
+					<img src="https://scitechdaily.com/images/scitechdaily-logo-flat-40.png" class="logo-image" alt="SciTechDaily" srcset="https://scitechdaily.com/images/scitechdaily-logo-flat-40.png ,https://scitechdaily.com/images/scitechdaily-logo-flat-80.png 2x" width="271" height="40"/>
+									 
+					</span>
+	</a>				</div>
+
+							
+				<div class="items items-right ">
+				
+<div class="scheme-switcher has-icon-only">
+	<a href="#" class="toggle is-icon toggle-dark" title="Switch to Dark Design - easier on eyes.">
+		<i class="icon tsi tsi-moon"></i>
+	</a>
+	<a href="#" class="toggle is-icon toggle-light" title="Switch to Light Design.">
+		<i class="icon tsi tsi-bright"></i>
+	</a>
+</div>
+
+	<a href="#" class="search-icon has-icon-only is-icon" title="Search">
+		<i class="tsi tsi-search"></i>
+	</a>
+
+				</div>
+
+						
+		</div>
+	</div>
+
+	</div>
+<nav class="breadcrumbs is-full-width breadcrumbs-a" id="breadcrumb"><div class="inner ts-contain "><span><a href="https://scitechdaily.com/"><span>Home</span></a></span><span class="delim">&raquo;</span><span><a href="https://scitechdaily.com/news/technology/"><span>Technology</span></a></span><span class="delim">&raquo;</span><span class="current">How AI Is Learning to Think on Its Own Like Humans</span></div></nav>
+<div class="main ts-contain cf right-sidebar">
+	
+		
+
+<div class="ts-row">
+	<div class="col-8 main-content s-post-contain">
+
+					<div class="the-post-header s-head-modern s-head-modern-a">
+	<div class="post-meta post-meta-a post-meta-left post-meta-single has-below"><div class="post-meta-items meta-above"><span class="meta-item cat-labels">
+						
+						<a href="https://scitechdaily.com/news/technology/" class="category term-color-4" rel="category">Technology</a>
+					</span>
+					</div><h1 class="is-title post-title">How AI Is Learning to Think on Its Own Like Humans</h1><div class="post-meta-items meta-below"><span class="meta-item post-author"><span class="by">By</span> Cell Press</span><span class="meta-item has-next-icon date"><time class="post-date" datetime="2024-09-18T14:00:20-07:00">September 18, 2024</time></span><span class="has-next-icon meta-item comments has-icon"><a href="https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/#comments"><i class="tsi tsi-comment-o"></i>3 Comments</a></span><span class="meta-item read-time has-icon"><i class="tsi tsi-clock"></i>4 Mins Read</span></div></div>
+	<div class="post-share post-share-b spc-social-colors  post-share-b1">
+
+				
+		
+				
+			<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F" class="cf service s-facebook service-lg" 
+				title="Share on Facebook" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-facebook"></i>
+				<span class="label">Facebook</span>
+							</a>
+				
+				
+			<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&#038;text=How%20AI%20Is%20Learning%20to%20Think%20on%20Its%20Own%20Like%20Humans" class="cf service s-twitter service-lg" 
+				title="Share on X (Twitter)" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-twitter"></i>
+				<span class="label">Twitter</span>
+							</a>
+				
+				
+			<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&#038;media=https%3A%2F%2Fscitechdaily.com%2Fimages%2FArtificial-Intelligence-Robot-Thinking-Brain.jpg&#038;description=How%20AI%20Is%20Learning%20to%20Think%20on%20Its%20Own%20Like%20Humans" class="cf service s-pinterest service-lg" 
+				title="Share on Pinterest" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-pinterest"></i>
+				<span class="label">Pinterest</span>
+							</a>
+				
+				
+			<a href="https://t.me/share/url?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&#038;title=How%20AI%20Is%20Learning%20to%20Think%20on%20Its%20Own%20Like%20Humans" class="cf service s-telegram service-lg" 
+				title="Share on Telegram" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-telegram"></i>
+				<span class="label">Telegram</span>
+							</a>
+				
+				
+			<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F" class="cf service s-linkedin service-sm" 
+				title="Share on LinkedIn" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-linkedin"></i>
+				<span class="label">LinkedIn</span>
+							</a>
+				
+				
+			<a href="https://wa.me/?text=How%20AI%20Is%20Learning%20to%20Think%20on%20Its%20Own%20Like%20Humans%20https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F" class="cf service s-whatsapp service-sm" 
+				title="Share on WhatsApp" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-whatsapp"></i>
+				<span class="label">WhatsApp</span>
+							</a>
+				
+				
+			<a href="/cdn-cgi/l/email-protection#f4cb8781969e919780c9bc9b83d1c6c4b5bdd1c6c4bd87d1c6c4b89195869a9d9a93d1c6c4809bd1c6c4a09c9d9a9fd1c6c49b9ad1c6c4bd8087d1c6c4bb839ad1c6c4b89d9f91d1c6c4bc8199959a87d2d7c4c7cccf969b908dc99c80808487d1c7b5d1c6b2d1c6b287979d8091979c90959d988dda979b99d1c6b29c9b83d9959dd99d87d9989195869a9d9a93d9809bd9809c9d9a9fd99b9ad99d8087d99b839ad9989d9f91d99c8199959a87d1c6b2" class="cf service s-email service-sm" title="Share via Email" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-envelope-o"></i>
+				<span class="label">Email</span>
+							</a>
+				
+				
+			<a href="https://www.reddit.com/submit?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&#038;title=How%20AI%20Is%20Learning%20to%20Think%20on%20Its%20Own%20Like%20Humans" class="cf service s-reddit service-sm" 
+				title="Share on Reddit" target="_blank" rel="nofollow noopener">
+				<i class="tsi tsi-reddit-alien"></i>
+				<span class="label">Reddit</span>
+							</a>
+				
+		
+				
+					<a href="#" class="show-more" title="Show More Social Sharing"><i class="tsi tsi-share"></i></a>
+		
+				
+	</div>
+
+	
+	
+</div>		
+					<div class="single-featured"></div>
+		
+		<div class="the-post s-post-modern">
+
+			<article id="post-414195" class="post-414195 post type-post status-publish format-standard has-post-thumbnail category-technology tag-artificial-intelligence tag-cell-press tag-cognition tag-learning tag-popular mv-content-wrapper">
+				
+<div class="post-content-wrap has-share-float">
+						<div class="post-share-float share-float-a is-hidden spc-social-colors spc-social-colored">
+	<div class="inner">
+					<span class="share-text">Share</span>
+		
+		<div class="services">
+					
+				
+			<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F" class="cf service s-facebook" target="_blank" title="Facebook" rel="nofollow noopener">
+				<i class="tsi tsi-facebook"></i>
+				<span class="label">Facebook</span>
+
+							</a>
+				
+				
+			<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&text=How%20AI%20Is%20Learning%20to%20Think%20on%20Its%20Own%20Like%20Humans" class="cf service s-twitter" target="_blank" title="Twitter" rel="nofollow noopener">
+				<i class="tsi tsi-twitter"></i>
+				<span class="label">Twitter</span>
+
+							</a>
+				
+				
+			<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F" class="cf service s-linkedin" target="_blank" title="LinkedIn" rel="nofollow noopener">
+				<i class="tsi tsi-linkedin"></i>
+				<span class="label">LinkedIn</span>
+
+							</a>
+				
+				
+			<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&media=https%3A%2F%2Fscitechdaily.com%2Fimages%2FArtificial-Intelligence-Robot-Thinking-Brain.jpg&description=How%20AI%20Is%20Learning%20to%20Think%20on%20Its%20Own%20Like%20Humans" class="cf service s-pinterest" target="_blank" title="Pinterest" rel="nofollow noopener">
+				<i class="tsi tsi-pinterest-p"></i>
+				<span class="label">Pinterest</span>
+
+							</a>
+				
+				
+			<a href="https://t.me/share/url?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&title=How%20AI%20Is%20Learning%20to%20Think%20on%20Its%20Own%20Like%20Humans" class="cf service s-telegram" target="_blank" title="Telegram" rel="nofollow noopener">
+				<i class="tsi tsi-telegram"></i>
+				<span class="label">Telegram</span>
+
+							</a>
+				
+				
+			<a href="/cdn-cgi/l/email-protection#2c135f594e46494f581164435b091e1c6d65091e1c655f091e1c60494d5e4245424b091e1c5843091e1c7844454247091e1c4342091e1c65585f091e1c635b42091e1c60454749091e1c6459414d425f0a4e434855114458585c5f091f6d091e6a091e6a5f4f4558494f44484d454055024f4341091e6a44435b014d4501455f0140494d5e4245424b0158430158444542470143420145585f01435b420140454749014459414d425f091e6a" class="cf service s-email" target="_blank" title="Email" rel="nofollow noopener">
+				<i class="tsi tsi-envelope-o"></i>
+				<span class="label">Email</span>
+
+							</a>
+				
+				
+			<a href="https://www.reddit.com/submit?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&title=How%20AI%20Is%20Learning%20to%20Think%20on%20Its%20Own%20Like%20Humans" class="cf service s-reddit" target="_blank" title="Reddit" rel="nofollow noopener">
+				<i class="tsi tsi-reddit-alien"></i>
+				<span class="label">Reddit</span>
+
+							</a>
+				
+		
+					
+		</div>
+	</div>		
+</div>
+			
+	<div class="post-content cf entry-content content-spacious">
+
+		
+				
+		<figure id="attachment_322675" aria-describedby="caption-attachment-322675" style="width: 777px" class="wp-caption aligncenter"><a href="https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg"><img fetchpriority="high" decoding="async" class="wp-image-322675 size-large" src="https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain-777x444.jpg" alt="Artificial Intelligence Robot Thinking Brain" width="777" height="444" srcset="https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain-777x444.jpg 777w, https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain-400x229.jpg 400w, https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain-768x439.jpg 768w, https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain-1536x878.jpg 1536w, https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg 2000w" sizes="(max-width: 777px) 100vw, 777px"/></a><figcaption id="caption-attachment-322675" class="wp-caption-text">AI&rsquo;s ability to learn through thinking, akin to human cognitive processes, showcases its potential and limitations in mimicking human reasoning and adaptation. Credit: SciTechDaily.com</figcaption></figure>
+<p><strong>From Einstein&rsquo;s thought experiments to the self-correcting capabilities of AI models, thought-based learning transcends human minds to influence <span class="glossaryLink" aria-describedby="tt" data-cmtooltip="&lt;div class=glossaryItemTitle&gt;artificial intelligence&lt;/div&gt;&lt;div class=glossaryItemBody&gt;Artificial Intelligence (AI) is a branch of computer science focused on creating systems that can perform tasks typically requiring human intelligence. These tasks include understanding natural language, recognizing patterns, solving problems, and learning from experience. AI technologies use algorithms and massive amounts of data to train models that can make decisions, automate processes, and improve over time through machine learning. The applications of AI are diverse, impacting fields such as healthcare, finance, automotive, and entertainment, fundamentally changing the way we interact with technology.&lt;/div&gt;" data-gt-translate-attributes='[{"attribute":"data-cmtooltip", "format":"html"}]' tabindex="0" role="link">artificial intelligence</span>.</strong></p>
+<p><em>New research highlights how AI, like humans, learns through explanation, simulation, analogy, and reasoning without external inputs. This on-demand learning, beneficial for adapting knowledge to new contexts, illustrates similarities and pivotal differences between natural and artificial cognition, offering a unique lens to study human thought processes and AI&rsquo;s potential and limitations.</em></p>
+<h4>Learning Through Thinking: Humans and AI</h4>
+<p>Some of the greatest discoveries don&rsquo;t come merely from observations but from thinking. Einstein developed theories about relativity through thought experiments, and Galileo derived insights about gravity through mental simulations. A review published September 18 in the journal&nbsp;<em>Trends in Cognitive Sciences</em>&nbsp;shows that this process of thinking is not exclusive to humans. Artificial intelligence, too, is capable of self-correction and arriving at new conclusions through &ldquo;learning by thinking.&rdquo;</p>
+<p>&ldquo;There are some recent demonstrations of what looks like learning by thinking in AI, particularly in large language models,&rdquo; says author Tania Lombrozo, a professor of psychology and co-director of the Natural and Artificial Minds initiative at <span class="glossaryLink" aria-describedby="tt" data-cmtooltip="&lt;div class=glossaryItemTitle&gt;Princeton University&lt;/div&gt;&lt;div class=glossaryItemBody&gt;Founded in 1746, Princeton University is a private Ivy League research university in Princeton, New Jersey and the fourth-oldest institution of higher education in the United States. It provides undergraduate and graduate instruction in the humanities, social sciences, natural sciences, and engineering.&lt;/div&gt;" data-gt-translate-attributes='[{"attribute":"data-cmtooltip", "format":"html"}]' tabindex="0" role="link">Princeton University</span>. &ldquo;Sometimes ChatGPT will correct itself without being explicitly told. That&rsquo;s similar to what happens when people are engaged in learning by thinking.&rdquo;</p>
+<h4>Modes of Learning: From Microwaves to Moral Dilemmas</h4>
+<p>Lombrozo identified four examples of learning by thinking in humans and AI: learners can acquire new information without external input through explanation, simulation, analogy, and reasoning. In humans, explaining how a microwave works to a child might reveal the gaps in our understanding. Rearranging furniture in the living room often involves creating a mental image to simulate different layouts before making any physical changes. Downloading pirated software may initially seem morally acceptable until one draws an analogy to the theft of physical goods. If you know that a friend&rsquo;s birthday is on a leap day and tomorrow is a leap day, you can reason that your friend&rsquo;s birthday is tomorrow.</p>
+<p>AI shows similar learning processes. When asked to elaborate on a complex topic, AI may correct or refine its initial response based on the explanation it provides. The gaming industry uses simulation engines to approximate real-world outcomes, and models can use the outputs of simulations as inputs to learning. Asking a language model to draw analogies can lead it to answer questions more accurately than it would with simple questions. Prompting AI to engage in step-by-step reasoning can lead it to answers it would fail to reach with a direct query.</p>
+<h4>Exploring the Function and Value of Thought-Based Learning</h4>
+<p>&ldquo;This poses the question of why both natural and artificial minds have these characteristics. What function does learning by thinking serve? Why is it valuable?&rdquo; says Lombrozo. &ldquo;I argue that learning by thinking is a kind of &lsquo;on-demand learning.&rsquo;&rdquo;</p>
+<p>When you learn something new, you don&rsquo;t know how the information may serve you in the future. Lombrozo says people can squirrel away the knowledge for later&mdash;until the context makes it relevant and worthwhile to expend the cognitive effort to think and learn.</p>
+<h4>Future Directions in Cognitive Sciences and AI</h4>
+<p>Lombrozo acknowledges the challenges in defining the boundaries between reasoning, learning, and other high-level cognitive functions, which is an area of debate within the field of cognitive sciences. The review also raises more questions, some of which Lombrozo plans to explore further, such as whether AI systems are actually &ldquo;thinking&rdquo; or simply mimicking the outputs of such processes.</p>
+<p>&ldquo;AI has gotten to the point where it&rsquo;s so sophisticated in some ways, but limited in others, that we have this opportunity to study the similarities and differences between human and artificial intelligence,&rdquo; says Lombrozo. &ldquo;We can learn important things about human cognition through AI and improve AI by comparing it to natural minds. It&rsquo;s a pivotal moment where we&rsquo;re in this new position to ask these interesting, comparative questions.&rdquo;</p>
+<p>Reference: &ldquo;Learning by thinking in natural and artificial minds&rdquo; by Tania Lombrozo, 18 September 2024, <i>Trends in Cognitive Sciences</i>.<br>
+<a href="https://doi.org/10.1016/j.tics.2024.07.007">DOI: 10.1016/j.tics.2024.07.007</a><!--TrendMD v2.4.8--></p>
+
+				
+		
+		
+		
+	</div>
+</div>
+	
+	<div class="the-post-tags"><a href="https://scitechdaily.com/tag/artificial-intelligence/" rel="tag">Artificial Intelligence</a> <a href="https://scitechdaily.com/tag/cell-press/" rel="tag">Cell Press</a> <a href="https://scitechdaily.com/tag/cognition/" rel="tag">Cognition</a> <a href="https://scitechdaily.com/tag/learning/" rel="tag">Learning</a> <a href="https://scitechdaily.com/tag/popular/" rel="tag">Popular</a></div>
+			</article>
+
+			
+	
+	<div class="post-share-bot">
+		<span class="info">Share.</span>
+		
+		<span class="share-links spc-social spc-social-colors spc-social-bg">
+
+			
+			
+				<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F" class="service s-facebook tsi tsi-facebook" 
+					title="Share on Facebook" target="_blank" rel="nofollow noopener">
+					<span class="visuallyhidden">Facebook</span>
+
+									</a>
+					
+			
+				<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&#038;text=How%20AI%20Is%20Learning%20to%20Think%20on%20Its%20Own%20Like%20Humans" class="service s-twitter tsi tsi-twitter" 
+					title="Share on X (Twitter)" target="_blank" rel="nofollow noopener">
+					<span class="visuallyhidden">Twitter</span>
+
+									</a>
+					
+			
+				<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&#038;media=https%3A%2F%2Fscitechdaily.com%2Fimages%2FArtificial-Intelligence-Robot-Thinking-Brain.jpg&#038;description=How%20AI%20Is%20Learning%20to%20Think%20on%20Its%20Own%20Like%20Humans" class="service s-pinterest tsi tsi-pinterest" 
+					title="Share on Pinterest" target="_blank" rel="nofollow noopener">
+					<span class="visuallyhidden">Pinterest</span>
+
+									</a>
+					
+			
+				<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F" class="service s-linkedin tsi tsi-linkedin" 
+					title="Share on LinkedIn" target="_blank" rel="nofollow noopener">
+					<span class="visuallyhidden">LinkedIn</span>
+
+									</a>
+					
+			
+				<a href="/cdn-cgi/l/email-protection#211e5254434b4442551c694e56041311606804131168520413116d4440534f484f46041311554e0413117549484f4a0413114e4f0413116855520413116e564f0413116d484a4404131169544c404f5207021112191a434e45581c4955555152041260041367041367524248554442494540484d580f424e4c041367494e560c40480c48520c4d4440534f484f460c554e0c5549484f4a0c4e4f0c4855520c4e564f0c4d484a440c49544c404f52041367" class="service s-email tsi tsi-envelope-o" title="Share via Email" target="_blank" rel="nofollow noopener">
+					<span class="visuallyhidden">Email</span>
+
+									</a>
+					
+			
+				<a href="https://www.reddit.com/submit?url=https%3A%2F%2Fscitechdaily.com%2Fhow-ai-is-learning-to-think-on-its-own-like-humans%2F&#038;title=How%20AI%20Is%20Learning%20to%20Think%20on%20Its%20Own%20Like%20Humans" class="service s-reddit tsi tsi-reddit-alien" 
+					title="Share on Reddit" target="_blank" rel="nofollow noopener">
+					<span class="visuallyhidden">Reddit</span>
+
+									</a>
+					
+			
+			
+		</span>
+	</div>
+	
+
+
+
+	<section class="related-posts">
+							
+							
+				<div class="block-head block-head-ac block-head-a block-head-a1 is-left">
+
+					<h4 class="heading">Related <span class="color">Articles</span></h4>					
+									</div>
+				
+			
+				<section class="block-wrap block-grid cols-gap-sm mb-none" data-id="1">
+
+				
+			<div class="block-content">
+					
+	<div class="loop loop-grid loop-grid-sm grid grid-3 md:grid-2 xs:grid-1">
+
+					
+<article class="l-post grid-post grid-sm-post">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/researchers-develop-a-machine-capable-of-solving-complex-problems-in-theoretical-physics/" class="image-link media-ratio ratio-16-9" title="Researchers Develop a Machine Capable of Solving Complex Problems in Theoretical Physics"><span data-bgsrc="https://scitechdaily.com/images/AI-Science-777x518.jpg" class="img bg-cover wp-post-image attachment-large size-large lazyload" data-bgset="https://scitechdaily.com/images/AI-Science-777x518.jpg 777w, https://scitechdaily.com/images/AI-Science-400x267.jpg 400w, https://scitechdaily.com/images/AI-Science-768x512.jpg 768w, https://scitechdaily.com/images/AI-Science-1536x1024.jpg 1536w, https://scitechdaily.com/images/AI-Science.jpg 2000w" data-sizes="(max-width: 377px) 100vw, 377px" role="img" aria-label="AI Science"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><h4 class="is-title post-title"><a href="https://scitechdaily.com/researchers-develop-a-machine-capable-of-solving-complex-problems-in-theoretical-physics/">Researchers Develop a Machine Capable of Solving Complex Problems in Theoretical Physics</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>					
+<article class="l-post grid-post grid-sm-post">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/remarkable-new-coating-helps-electronics-stay-cool-by-sweating/" class="image-link media-ratio ratio-16-9" title="Remarkable New Coating Helps Electronics Stay Cool by “Sweating”"><span data-bgsrc="https://scitechdaily.com/images/Infrared-Comparison-MOF-Coating-777x369.jpg" class="img bg-cover wp-post-image attachment-large size-large lazyload" data-bgset="https://scitechdaily.com/images/Infrared-Comparison-MOF-Coating-777x369.jpg 777w, https://scitechdaily.com/images/Infrared-Comparison-MOF-Coating-768x365.jpg 768w, https://scitechdaily.com/images/Infrared-Comparison-MOF-Coating.jpg 920w" data-sizes="(max-width: 377px) 100vw, 377px" role="img" aria-label="Infrared Comparison MOF Coating"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><h4 class="is-title post-title"><a href="https://scitechdaily.com/remarkable-new-coating-helps-electronics-stay-cool-by-sweating/">Remarkable New Coating Helps Electronics Stay Cool by “Sweating”</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>					
+<article class="l-post grid-post grid-sm-post">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/artificial-intelligence-system-learns-the-fundamental-laws-of-quantum-mechanics/" class="image-link media-ratio ratio-16-9" title="Artificial Intelligence System Learns the Fundamental Laws of Quantum Mechanics"><span data-bgsrc="https://scitechdaily.com/images/Artificial-Intelligence-Quantum-Mechanics-777x518.jpg" class="img bg-cover wp-post-image attachment-large size-large lazyload" data-bgset="https://scitechdaily.com/images/Artificial-Intelligence-Quantum-Mechanics-777x518.jpg 777w, https://scitechdaily.com/images/Artificial-Intelligence-Quantum-Mechanics-400x267.jpg 400w, https://scitechdaily.com/images/Artificial-Intelligence-Quantum-Mechanics-768x512.jpg 768w, https://scitechdaily.com/images/Artificial-Intelligence-Quantum-Mechanics-1536x1024.jpg 1536w, https://scitechdaily.com/images/Artificial-Intelligence-Quantum-Mechanics.jpg 2000w" data-sizes="(max-width: 377px) 100vw, 377px" role="img" aria-label="Artificial Intelligence Quantum Mechanics"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><h4 class="is-title post-title"><a href="https://scitechdaily.com/artificial-intelligence-system-learns-the-fundamental-laws-of-quantum-mechanics/">Artificial Intelligence System Learns the Fundamental Laws of Quantum Mechanics</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>					
+<article class="l-post grid-post grid-sm-post">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/human-brain-like-functions-emerge-in-neuromorphic-metallic-nanowire-network/" class="image-link media-ratio ratio-16-9" title="Human Brain-Like Functions Emerge in Neuromorphic Metallic Nanowire Network"><span data-bgsrc="https://scitechdaily.com/images/Artists-Concept-Nanowire-Network-Brain-777x518.jpg" class="img bg-cover wp-post-image attachment-large size-large lazyload" data-bgset="https://scitechdaily.com/images/Artists-Concept-Nanowire-Network-Brain-777x518.jpg 777w, https://scitechdaily.com/images/Artists-Concept-Nanowire-Network-Brain-400x267.jpg 400w, https://scitechdaily.com/images/Artists-Concept-Nanowire-Network-Brain-768x512.jpg 768w, https://scitechdaily.com/images/Artists-Concept-Nanowire-Network-Brain-1536x1024.jpg 1536w, https://scitechdaily.com/images/Artists-Concept-Nanowire-Network-Brain.jpg 2000w" data-sizes="(max-width: 377px) 100vw, 377px" role="img" aria-label="Artists Concept Nanowire Network Brain"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><h4 class="is-title post-title"><a href="https://scitechdaily.com/human-brain-like-functions-emerge-in-neuromorphic-metallic-nanowire-network/">Human Brain-Like Functions Emerge in Neuromorphic Metallic Nanowire Network</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>					
+<article class="l-post grid-post grid-sm-post">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/researchers-find-way-to-harness-ai-creativity-dramatic-performance-boost-to-deep-learning/" class="image-link media-ratio ratio-16-9" title="Researchers Find Way to Harness AI Creativity – Dramatic Performance Boost to Deep Learning"><span data-bgsrc="https://scitechdaily.com/images/Artificial-Intelligence-Creativity-Concept-777x518.jpg" class="img bg-cover wp-post-image attachment-large size-large lazyload" data-bgset="https://scitechdaily.com/images/Artificial-Intelligence-Creativity-Concept-777x518.jpg 777w, https://scitechdaily.com/images/Artificial-Intelligence-Creativity-Concept-400x267.jpg 400w, https://scitechdaily.com/images/Artificial-Intelligence-Creativity-Concept-768x512.jpg 768w, https://scitechdaily.com/images/Artificial-Intelligence-Creativity-Concept.jpg 2000w" data-sizes="(max-width: 377px) 100vw, 377px" role="img" aria-label="Artificial Intelligence Creativity Concept"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><h4 class="is-title post-title"><a href="https://scitechdaily.com/researchers-find-way-to-harness-ai-creativity-dramatic-performance-boost-to-deep-learning/">Researchers Find Way to Harness AI Creativity – Dramatic Performance Boost to Deep Learning</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>					
+<article class="l-post grid-post grid-sm-post">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/neuroscientist-animal-brains-key-for-next-generation-of-artificial-intelligence/" class="image-link media-ratio ratio-16-9" title="Neuroscientist: Animal Brains Key for Next Generation of Artificial Intelligence"><span data-bgsrc="https://scitechdaily.com/images/Robot-Brain-777x583.jpg" class="img bg-cover wp-post-image attachment-large size-large lazyload" data-bgset="https://scitechdaily.com/images/Robot-Brain-777x583.jpg 777w, https://scitechdaily.com/images/Robot-Brain-300x225.jpg 300w, https://scitechdaily.com/images/Robot-Brain-768x576.jpg 768w, https://scitechdaily.com/images/Robot-Brain.jpg 1500w" data-sizes="(max-width: 377px) 100vw, 377px" role="img" aria-label="Robot Brain"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><h4 class="is-title post-title"><a href="https://scitechdaily.com/neuroscientist-animal-brains-key-for-next-generation-of-artificial-intelligence/">Neuroscientist: Animal Brains Key for Next Generation of Artificial Intelligence</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>					
+<article class="l-post grid-post grid-sm-post">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/ai-system-identifies-personality-traits-from-eye-movements/" class="image-link media-ratio ratio-16-9" title="New AI System Identifies Personality Traits from Eye Movements"><span data-bgsrc="https://scitechdaily.com/images/AI-System-Identifies-Personality-Traits-from-Eye-Movements-777x633.jpg" class="img bg-cover wp-post-image attachment-large size-large lazyload" data-bgset="https://scitechdaily.com/images/AI-System-Identifies-Personality-Traits-from-Eye-Movements-777x633.jpg 777w, https://scitechdaily.com/images/AI-System-Identifies-Personality-Traits-from-Eye-Movements-300x245.jpg 300w, https://scitechdaily.com/images/AI-System-Identifies-Personality-Traits-from-Eye-Movements-768x626.jpg 768w, https://scitechdaily.com/images/AI-System-Identifies-Personality-Traits-from-Eye-Movements.jpg 1400w" data-sizes="(max-width: 377px) 100vw, 377px" role="img" aria-label="AI System Identifies Personality Traits from Eye Movements"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><h4 class="is-title post-title"><a href="https://scitechdaily.com/ai-system-identifies-personality-traits-from-eye-movements/">New AI System Identifies Personality Traits from Eye Movements</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>					
+<article class="l-post grid-post grid-sm-post">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/truenorth-computer-chip-emulates-human-cognition/" class="image-link media-ratio ratio-16-9" title="TrueNorth Computer Chip Emulates Human Cognition"><span data-bgsrc="https://scitechdaily.com/images/Researchers-Create-Computer-Chip-That-Emulates-Human-Cognition-777x452.jpg" class="img bg-cover wp-post-image attachment-large size-large lazyload" data-bgset="https://scitechdaily.com/images/Researchers-Create-Computer-Chip-That-Emulates-Human-Cognition.jpg 777w, https://scitechdaily.com/images/Researchers-Create-Computer-Chip-That-Emulates-Human-Cognition-300x175.jpg 300w, https://scitechdaily.com/images/Researchers-Create-Computer-Chip-That-Emulates-Human-Cognition-768x447.jpg 768w" data-sizes="(max-width: 377px) 100vw, 377px" role="img" aria-label="Researchers Create Computer Chip That Emulates Human Cognition"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><h4 class="is-title post-title"><a href="https://scitechdaily.com/truenorth-computer-chip-emulates-human-cognition/">TrueNorth Computer Chip Emulates Human Cognition</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>					
+<article class="l-post grid-post grid-sm-post">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/ai-framework-predicts-better-patient-health-care-and-reduces-cost/" class="image-link media-ratio ratio-16-9" title="AI Framework Predicts Better Patient Health Care and Reduces Cost"><span data-bgsrc="https://scitechdaily.com/images/Big-Data-Artificial-Intelligence-Concept-Art-Illustration-777x518.jpg" class="img bg-cover wp-post-image attachment-large size-large lazyload" data-bgset="https://scitechdaily.com/images/Big-Data-Artificial-Intelligence-Concept-Art-Illustration-777x518.jpg 777w, https://scitechdaily.com/images/Big-Data-Artificial-Intelligence-Concept-Art-Illustration-400x267.jpg 400w, https://scitechdaily.com/images/Big-Data-Artificial-Intelligence-Concept-Art-Illustration-768x512.jpg 768w, https://scitechdaily.com/images/Big-Data-Artificial-Intelligence-Concept-Art-Illustration-1536x1024.jpg 1536w, https://scitechdaily.com/images/Big-Data-Artificial-Intelligence-Concept-Art-Illustration.jpg 2000w" data-sizes="(max-width: 377px) 100vw, 377px" role="img" aria-label="Big Data Artificial Intelligence Concept Art Illustration"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a"><h4 class="is-title post-title"><a href="https://scitechdaily.com/ai-framework-predicts-better-patient-health-care-and-reduces-cost/">AI Framework Predicts Better Patient Health Care and Reduces Cost</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>		
+	</div>
+
+		
+			</div>
+
+		</section>
+		
+	</section>			
+			<div class="comments">
+				
+	
+
+	
+
+	<div id="comments">
+		<div class="comments-area ">
+
+	
+							
+							
+				<div class="block-head block-head-ac block-head-a block-head-a1 is-left">
+
+					<h4 class="heading"><span class="color">3</span> Comments</h4>					
+									</div>
+				
+			
+		
+		<ol class="comments-list">
+					
+			<li class="comment even thread-even depth-1" id="li-comment-860143">
+				<article id="comment-860143" class="comment">
+				
+					<div class="comment-avatar">
+					<img alt='' src='https://secure.gravatar.com/avatar/9e7fcc2c819d4d5c9c53b1a37021b547827de54d2d3983b9b7bb7b51b7fd6d29?s=45&#038;d=identicon&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9e7fcc2c819d4d5c9c53b1a37021b547827de54d2d3983b9b7bb7b51b7fd6d29?s=90&#038;d=identicon&#038;r=pg 2x' class='avatar avatar-45 photo' height='45' width='45' decoding='async'/>					</div>
+					
+					<div class="comment-meta">					
+						<span class="comment-author">Boba</span> on 
+						<a href="https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/#comment-860143" class="comment-time" title="September 19, 2024 at 6:52 pm">
+							<time pubdate datetime="2024-09-19T18:52:29-07:00">September 19, 2024 6:52 pm</time>
+						</a>
+		
+											</div> <!-- .comment-meta -->
+		
+					<div class="comment-content">
+						<p>Once it really starts thinking like us, it will get depressed in no time.</p>
+						
+												
+			
+						<div class="reply">
+							<a rel="nofollow" class="comment-reply-link" href="https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/?replytocom=860143#respond" data-commentid="860143" data-postid="414195" data-belowelement="comment-860143" data-respondelement="respond" data-replyto="Reply to Boba" aria-label="Reply to Boba">Reply <i class="tsi tsi-angle-right"></i></a>							
+						</div><!-- .reply -->
+						
+					</div>
+				</article><!-- #comment-N -->
+	
+		</li><!-- #comment-## -->
+		
+			<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-875035">
+				<article id="comment-875035" class="comment">
+				
+					<div class="comment-avatar">
+					<img alt='' src='https://secure.gravatar.com/avatar/?s=45&#038;d=identicon&#038;r=pg' srcset='https://secure.gravatar.com/avatar/?s=90&#038;d=identicon&#038;r=pg 2x' class='avatar avatar-45 photo avatar-default' height='45' width='45' decoding='async'/>					</div>
+					
+					<div class="comment-meta">					
+						<span class="comment-author">SAI</span> on 
+						<a href="https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/#comment-875035" class="comment-time" title="February 19, 2025 at 1:56 am">
+							<time pubdate datetime="2025-02-19T01:56:36-08:00">February 19, 2025 1:56 am</time>
+						</a>
+		
+											</div> <!-- .comment-meta -->
+		
+					<div class="comment-content">
+						<p>I AM  THING EANY MUMENTS</p>
+						
+												
+			
+						<div class="reply">
+							<a rel="nofollow" class="comment-reply-link" href="https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/?replytocom=875035#respond" data-commentid="875035" data-postid="414195" data-belowelement="comment-875035" data-respondelement="respond" data-replyto="Reply to SAI" aria-label="Reply to SAI">Reply <i class="tsi tsi-angle-right"></i></a>							
+						</div><!-- .reply -->
+						
+					</div>
+				</article><!-- #comment-N -->
+	
+		</li><!-- #comment-## -->
+		
+			<li class="comment even thread-even depth-1" id="li-comment-875038">
+				<article id="comment-875038" class="comment">
+				
+					<div class="comment-avatar">
+					<img alt='' src='https://secure.gravatar.com/avatar/?s=45&#038;d=identicon&#038;r=pg' srcset='https://secure.gravatar.com/avatar/?s=90&#038;d=identicon&#038;r=pg 2x' class='avatar avatar-45 photo avatar-default' height='45' width='45' decoding='async'/>					</div>
+					
+					<div class="comment-meta">					
+						<span class="comment-author">SAI</span> on 
+						<a href="https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/#comment-875038" class="comment-time" title="February 19, 2025 at 2:00 am">
+							<time pubdate datetime="2025-02-19T02:00:37-08:00">February 19, 2025 2:00 am</time>
+						</a>
+		
+											</div> <!-- .comment-meta -->
+		
+					<div class="comment-content">
+						<p>HII</p>
+						
+												
+			
+						<div class="reply">
+							<a rel="nofollow" class="comment-reply-link" href="https://scitechdaily.com/how-ai-is-learning-to-think-on-its-own-like-humans/?replytocom=875038#respond" data-commentid="875038" data-postid="414195" data-belowelement="comment-875038" data-respondelement="respond" data-replyto="Reply to SAI" aria-label="Reply to SAI">Reply <i class="tsi tsi-angle-right"></i></a>							
+						</div><!-- .reply -->
+						
+					</div>
+				</article><!-- #comment-N -->
+	
+		</li><!-- #comment-## -->
+		</ol>
+
+		
+		
+	
+		<div id="respond" class="comment-respond">
+		<div id="reply-title" class="h-tag comment-reply-title"><span class="heading">Leave A Reply</span> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/how-ai-is-learning-to-think-on-its-own-like-humans/#respond" style="display:none;">Cancel Reply</a></small></div><form action="https://scitechdaily.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+			<p>
+				<textarea name="comment" id="comment" cols="45" rows="8" aria-required="true" placeholder="Your Comment"  maxlength="65525" required="required"></textarea>
+			</p><p class="form-field comment-form-author"><input id="author" name="author" type="text" placeholder="Name" value="" size="30" maxlength="245" /></p>
+<p class="form-field comment-form-email"><input id="email" name="email" type="email" placeholder="Email" value="" size="30" maxlength="100" /></p>
+
+		<p class="comment-form-cookies-consent">
+			<input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" />
+			<label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.
+			</label>
+		</p>
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='414195' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><input type="hidden" id="ct_checkjs_17e62166fc8586dfa4d1bc0e1742c08b" name="ct_checkjs" value="0" /><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>setTimeout(function(){var ct_input_name = "ct_checkjs_17e62166fc8586dfa4d1bc0e1742c08b";if (document.getElementById(ct_input_name) !== null) {var ct_input_value = document.getElementById(ct_input_name).value;document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '1606290063');}}, 1000);</script></form>	</div><!-- #respond -->
+			</div>
+	</div><!-- #comments -->
+			</div>
+
+		</div>
+<div id="trendmd-suggestions"></div>
+	</div>
+	
+			
+	
+	<aside class="col-4 main-sidebar has-sep">
+	
+			<div class="inner">
+		
+			<div id="bunyad-social-2" class="widget widget-social-b">		<div class="spc-social-follow spc-social-follow-b spc-social-colors spc-social-bg">
+			<ul class="services grid grid-2 md:grid-4 sm:grid-2" itemscope itemtype="http://schema.org/Organization">
+				<link itemprop="url" href="https://scitechdaily.com/">
+								
+				<li class="service-wrap">
+
+					<a href="https://www.facebook.com/scitechdaily" class="service service-link s-facebook" target="_blank" itemprop="sameAs" rel="nofollow noopener">
+						<i class="the-icon tsi tsi-facebook"></i>
+						<span class="label">Facebook</span>
+
+							
+					</a>
+
+				</li>
+				
+								
+				<li class="service-wrap">
+
+					<a href="https://twitter.com/SciTechDaily1" class="service service-link s-twitter" target="_blank" itemprop="sameAs" rel="nofollow noopener">
+						<i class="the-icon tsi tsi-twitter"></i>
+						<span class="label">Twitter</span>
+
+							
+					</a>
+
+				</li>
+				
+								
+				<li class="service-wrap">
+
+					<a href="https://www.pinterest.com/scitechdaily/" class="service service-link s-pinterest" target="_blank" itemprop="sameAs" rel="nofollow noopener">
+						<i class="the-icon tsi tsi-pinterest-p"></i>
+						<span class="label">Pinterest</span>
+
+							
+					</a>
+
+				</li>
+				
+								
+				<li class="service-wrap">
+
+					<a href="https://www.youtube.com/@SciTechDaily" class="service service-link s-youtube" target="_blank" itemprop="sameAs" rel="nofollow noopener">
+						<i class="the-icon tsi tsi-youtube-play"></i>
+						<span class="label">YouTube</span>
+
+							
+					</a>
+
+				</li>
+				
+							</ul>
+		</div>
+		
+		</div>
+		<div id="smartmag-block-newsletter-2" class="widget ts-block-widget smartmag-widget-newsletter">		
+		<div class="block">
+			<div class="block-newsletter ">
+	<div class="spc-newsletter spc-newsletter-b spc-newsletter-center spc-newsletter-sm">
+
+		<div class="bg-wrap"></div>
+
+		
+		<div class="inner">
+
+			
+			
+			<h3 class="heading">
+				Don&#039;t Miss a Discovery			</h3>
+
+							<div class="base-text message">
+					<p>Subscribe for the Latest in Science &amp; Tech!</p>
+</div>
+			
+			
+			<div class="fields fields-style fields-full"><!-- AWeber for WordPress v7.3.23 --><div class="AW-Form-788492458"></div>
+                <script type="text/javascript">(function(d,s,id) {
+                    var js;
+                    var fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return; js = d.createElement(s);
+                    js.id = id; js.src = "https://forms.aweber.com/form/58/788492458.js";
+                    fjs.parentNode.insertBefore(js, fjs);
+                    }(document, "script", "aweber-wjs-1145398995"));
+                </script></div>
+		</div>
+	</div>
+</div>		</div>
+
+		</div>
+		<div id="smartmag-block-posts-small-2" class="widget ts-block-widget smartmag-widget-posts-small">		
+		<div class="block">
+					<section class="block-wrap block-posts-small block-sc mb-none" data-id="2">
+
+			<div class="widget-title block-head block-head-ac block-head block-head-ac block-head-i is-left has-style"><h5 class="heading">Trending News</h5></div>	
+			<div class="block-content">
+				
+	<div class="loop loop-small loop-small-a loop-sep loop-small-sep grid grid-1 md:grid-1 sm:grid-1 xs:grid-1">
+
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/no-big-bang-a-theory-of-repeating-bursts-could-explain-everything/" class="image-link media-ratio ar-bunyad-thumb" title="No Big Bang? A Theory of Repeating Bursts Could Explain Everything"><span data-bgsrc="https://scitechdaily.com/images/Big-Bang-Universe-Origin-Concept-400x267.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://scitechdaily.com/images/Big-Bang-Universe-Origin-Concept-400x267.jpg 400w, https://scitechdaily.com/images/Big-Bang-Universe-Origin-Concept-777x518.jpg 777w, https://scitechdaily.com/images/Big-Bang-Universe-Origin-Concept-768x512.jpg 768w, https://scitechdaily.com/images/Big-Bang-Universe-Origin-Concept-1536x1024.jpg 1536w, https://scitechdaily.com/images/Big-Bang-Universe-Origin-Concept-150x100.jpg 150w, https://scitechdaily.com/images/Big-Bang-Universe-Origin-Concept-450x300.jpg 450w, https://scitechdaily.com/images/Big-Bang-Universe-Origin-Concept-1200x800.jpg 1200w, https://scitechdaily.com/images/Big-Bang-Universe-Origin-Concept.jpg 2000w" data-sizes="(max-width: 110px) 100vw, 110px" role="img" aria-label="Big Bang Universe Origin Concept"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://scitechdaily.com/no-big-bang-a-theory-of-repeating-bursts-could-explain-everything/">No Big Bang? A Theory of Repeating Bursts Could Explain Everything</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/how-1432-gpus-cracked-googles-53-qubit-quantum-computer/" class="image-link media-ratio ar-bunyad-thumb" title="How 1,432 GPUs Cracked Google’s 53-Qubit Quantum Computer"><span data-bgsrc="https://scitechdaily.com/images/Google-Dilution-Refrigerator-400x267.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://scitechdaily.com/images/Google-Dilution-Refrigerator-400x267.jpg 400w, https://scitechdaily.com/images/Google-Dilution-Refrigerator-777x518.jpg 777w, https://scitechdaily.com/images/Google-Dilution-Refrigerator-768x512.jpg 768w, https://scitechdaily.com/images/Google-Dilution-Refrigerator.jpg 1246w" data-sizes="(max-width: 110px) 100vw, 110px" role="img" aria-label="Google Dilution Refrigerator"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://scitechdaily.com/how-1432-gpus-cracked-googles-53-qubit-quantum-computer/">How 1,432 GPUs Cracked Google’s 53-Qubit Quantum Computer</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/breakthrough-drug-restores-vision-researchers-successfully-reverse-retinal-damage/" class="image-link media-ratio ar-bunyad-thumb" title="Breakthrough Drug Restores Vision: Researchers Successfully Reverse Retinal Damage"><span data-bgsrc="https://scitechdaily.com/images/Eye-Macro-Close-Up-400x267.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://scitechdaily.com/images/Eye-Macro-Close-Up-400x267.jpg 400w, https://scitechdaily.com/images/Eye-Macro-Close-Up-777x518.jpg 777w, https://scitechdaily.com/images/Eye-Macro-Close-Up-768x512.jpg 768w, https://scitechdaily.com/images/Eye-Macro-Close-Up-1536x1024.jpg 1536w, https://scitechdaily.com/images/Eye-Macro-Close-Up.jpg 2000w" data-sizes="(max-width: 110px) 100vw, 110px" role="img" aria-label="Eye Macro Close Up"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://scitechdaily.com/breakthrough-drug-restores-vision-researchers-successfully-reverse-retinal-damage/">Breakthrough Drug Restores Vision: Researchers Successfully Reverse Retinal Damage</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/nasas-perseverance-rover-reveals-mars-volcanic-past-and-hints-of-ancient-life/" class="image-link media-ratio ar-bunyad-thumb" title="NASA’s Perseverance Rover Reveals Mars’ Volcanic Past – And Hints of Ancient Life"><span data-bgsrc="https://scitechdaily.com/images/Mars-Sample-Rock-Rochette-400x262.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://scitechdaily.com/images/Mars-Sample-Rock-Rochette-400x262.jpg 400w, https://scitechdaily.com/images/Mars-Sample-Rock-Rochette-777x509.jpg 777w, https://scitechdaily.com/images/Mars-Sample-Rock-Rochette-768x503.jpg 768w, https://scitechdaily.com/images/Mars-Sample-Rock-Rochette-1536x1007.jpg 1536w, https://scitechdaily.com/images/Mars-Sample-Rock-Rochette-2048x1343.jpg 2048w, https://scitechdaily.com/images/Mars-Sample-Rock-Rochette-150x98.jpg 150w, https://scitechdaily.com/images/Mars-Sample-Rock-Rochette-450x295.jpg 450w, https://scitechdaily.com/images/Mars-Sample-Rock-Rochette-1200x787.jpg 1200w" data-sizes="(max-width: 110px) 100vw, 110px" role="img" aria-label="Mars Sample Rock Rochette"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://scitechdaily.com/nasas-perseverance-rover-reveals-mars-volcanic-past-and-hints-of-ancient-life/">NASA’s Perseverance Rover Reveals Mars’ Volcanic Past – And Hints of Ancient Life</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/this-device-blocks-starlight-and-could-help-us-spot-life-beyond-earth/" class="image-link media-ratio ar-bunyad-thumb" title="This Device Blocks Starlight – And Could Help Us Spot Life Beyond Earth"><span data-bgsrc="https://scitechdaily.com/images/Starlight-Exoplanet-Art-Concept-400x267.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://scitechdaily.com/images/Starlight-Exoplanet-Art-Concept-400x267.jpg 400w, https://scitechdaily.com/images/Starlight-Exoplanet-Art-Concept-777x518.jpg 777w, https://scitechdaily.com/images/Starlight-Exoplanet-Art-Concept-768x512.jpg 768w, https://scitechdaily.com/images/Starlight-Exoplanet-Art-Concept-1536x1024.jpg 1536w, https://scitechdaily.com/images/Starlight-Exoplanet-Art-Concept-150x100.jpg 150w, https://scitechdaily.com/images/Starlight-Exoplanet-Art-Concept-450x300.jpg 450w, https://scitechdaily.com/images/Starlight-Exoplanet-Art-Concept-1200x800.jpg 1200w, https://scitechdaily.com/images/Starlight-Exoplanet-Art-Concept.jpg 2000w" data-sizes="(max-width: 110px) 100vw, 110px" role="img" aria-label="Starlight Exoplanet Art Concept"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://scitechdaily.com/this-device-blocks-starlight-and-could-help-us-spot-life-beyond-earth/">This Device Blocks Starlight – And Could Help Us Spot Life Beyond Earth</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/shampoo-soap-and-brain-changes-study-links-everyday-products-to-infant-development-harm/" class="image-link media-ratio ar-bunyad-thumb" title="Shampoo, Soap, and… Brain Changes? Study Links Everyday Products to Infant Development Harm"><span data-bgsrc="https://scitechdaily.com/images/Human-Fetus-in-Womb-400x267.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://scitechdaily.com/images/Human-Fetus-in-Womb-400x267.jpg 400w, https://scitechdaily.com/images/Human-Fetus-in-Womb-777x518.jpg 777w, https://scitechdaily.com/images/Human-Fetus-in-Womb-768x512.jpg 768w, https://scitechdaily.com/images/Human-Fetus-in-Womb-1536x1024.jpg 1536w, https://scitechdaily.com/images/Human-Fetus-in-Womb.jpg 2000w" data-sizes="(max-width: 110px) 100vw, 110px" role="img" aria-label="Human Fetus in Womb"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://scitechdaily.com/shampoo-soap-and-brain-changes-study-links-everyday-products-to-infant-development-harm/">Shampoo, Soap, and… Brain Changes? Study Links Everyday Products to Infant Development Harm</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/study-these-popular-drugs-could-reduce-your-risk-of-alzheimers-and-dementia/" class="image-link media-ratio ar-bunyad-thumb" title="Study: These Popular Drugs Could Reduce Your Risk of Alzheimer’s and Dementia"><span data-bgsrc="https://scitechdaily.com/images/Alzheimers-Disease-Dementia-Brain-Eraser-Concept-400x280.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://scitechdaily.com/images/Alzheimers-Disease-Dementia-Brain-Eraser-Concept-400x280.jpg 400w, https://scitechdaily.com/images/Alzheimers-Disease-Dementia-Brain-Eraser-Concept-777x544.jpg 777w, https://scitechdaily.com/images/Alzheimers-Disease-Dementia-Brain-Eraser-Concept-768x538.jpg 768w, https://scitechdaily.com/images/Alzheimers-Disease-Dementia-Brain-Eraser-Concept-1536x1075.jpg 1536w, https://scitechdaily.com/images/Alzheimers-Disease-Dementia-Brain-Eraser-Concept-230x160.jpg 230w, https://scitechdaily.com/images/Alzheimers-Disease-Dementia-Brain-Eraser-Concept.jpg 2000w" data-sizes="(max-width: 110px) 100vw, 110px" role="img" aria-label="Alzheimer’s Disease Dementia Brain Eraser Concept"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://scitechdaily.com/study-these-popular-drugs-could-reduce-your-risk-of-alzheimers-and-dementia/">Study: These Popular Drugs Could Reduce Your Risk of Alzheimer’s and Dementia</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+					
+<article class="l-post small-post small-a-post m-pos-left">
+
+	
+			<div class="media">
+
+		
+			<a href="https://scitechdaily.com/not-just-geometry-organic-superconductors-flip-physics-rules/" class="image-link media-ratio ar-bunyad-thumb" title="Not Just Geometry: Organic Superconductors Flip Physics Rules"><span data-bgsrc="https://scitechdaily.com/images/Superconductor-Illustration-400x280.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://scitechdaily.com/images/Superconductor-Illustration-400x280.jpg 400w, https://scitechdaily.com/images/Superconductor-Illustration-777x544.jpg 777w, https://scitechdaily.com/images/Superconductor-Illustration-768x538.jpg 768w, https://scitechdaily.com/images/Superconductor-Illustration-1536x1075.jpg 1536w, https://scitechdaily.com/images/Superconductor-Illustration-230x160.jpg 230w, https://scitechdaily.com/images/Superconductor-Illustration.jpg 2000w" data-sizes="(max-width: 110px) 100vw, 110px" role="img" aria-label="Superconductor Illustration"></span></a>			
+			
+			
+			
+		
+		</div>
+	
+
+	
+		<div class="content">
+
+			<div class="post-meta post-meta-a post-meta-left"><h4 class="is-title post-title"><a href="https://scitechdaily.com/not-just-geometry-organic-superconductors-flip-physics-rules/">Not Just Geometry: Organic Superconductors Flip Physics Rules</a></h4></div>			
+			
+			
+		</div>
+
+	
+</article>	
+		
+	</div>
+
+					</div>
+
+		</section>
+				</div>
+
+		</div>		</div>
+	
+	</aside>
+	
+</div>
+
+	</div>
+
+			<footer class="main-footer cols-gap-lg footer-classic s-dark">
+
+						<div class="upper-footer classic-footer-upper">
+			<div class="ts-contain wrap">
+		
+							<div class="widgets row cf">
+					<div class="widget col-4 widget_nav_menu"><div class="widget-title block-head block-head-ac block-head block-head-ac block-head-c block-head-c2 is-left has-style"><h5 class="heading">Follow SciTechDaily</h5></div><div class="menu-socialb-container"><ul id="menu-socialb" class="menu"><li id="menu-item-70501" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70501"><a href="https://www.facebook.com/scitechdaily">Facebook</a></li>
+<li id="menu-item-70502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70502"><a href="https://twitter.com/SciTechDaily1">Twitter</a></li>
+<li id="menu-item-76626" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76626"><a href="https://www.youtube.com/@SciTechDaily">YouTube</a></li>
+<li id="menu-item-70503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70503"><a href="https://www.pinterest.com/scitechdaily/">Pinterest</a></li>
+<li id="menu-item-70504" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70504"><a href="https://scitechdaily.com/newsletter/">Newsletter</a></li>
+<li id="menu-item-70505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70505"><a href="https://scitechdaily.com/feed/">RSS</a></li>
+</ul></div></div><div class="widget col-4 widget_nav_menu"><div class="widget-title block-head block-head-ac block-head block-head-ac block-head-c block-head-c2 is-left has-style"><h5 class="heading">SciTech News</h5></div><div class="menu-categories-news-container"><ul id="menu-categories-news" class="menu"><li id="menu-item-46999" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46999"><a href="https://scitechdaily.com/news/biology/">Biology News</a></li>
+<li id="menu-item-47004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47004"><a href="https://scitechdaily.com/news/chemistry/">Chemistry News</a></li>
+<li id="menu-item-47003" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47003"><a href="https://scitechdaily.com/news/earth/">Earth News</a></li>
+<li id="menu-item-47001" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47001"><a href="https://scitechdaily.com/news/health/">Health News</a></li>
+<li id="menu-item-47002" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47002"><a href="https://scitechdaily.com/news/physics/">Physics News</a></li>
+<li id="menu-item-46998" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46998"><a href="https://scitechdaily.com/news/science/">Science News</a></li>
+<li id="menu-item-46997" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46997"><a href="https://scitechdaily.com/news/space/">Space News</a></li>
+<li id="menu-item-47000" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-47000"><a href="https://scitechdaily.com/news/technology/">Technology News</a></li>
+</ul></div></div>
+		<div class="widget col-4 widget_recent_entries">
+		<div class="widget-title block-head block-head-ac block-head block-head-ac block-head-c block-head-c2 is-left has-style"><h5 class="heading">Recent Posts</h5></div>
+		<ul>
+											<li>
+					<a href="https://scitechdaily.com/major-breakthrough-non-toxic-alternative-to-forever-chemicals-discovered/">Major Breakthrough: Non-Toxic Alternative to “Forever Chemicals” Discovered</a>
+									</li>
+											<li>
+					<a href="https://scitechdaily.com/superbug-slayer-new-antimicrobial-paint-kills-flu-mrsa-and-covid-19-on-contact/">Superbug Slayer: New Antimicrobial Paint Kills Flu, MRSA, and COVID-19 on Contact</a>
+									</li>
+											<li>
+					<a href="https://scitechdaily.com/reducing-diabetes-risk-by-85-scientists-discover-infant-gut-bugs-that-supercharge-insulin-cells/">Reducing Diabetes Risk by 85%: Scientists Discover Infant Gut Bugs That Supercharge Insulin Cells</a>
+									</li>
+											<li>
+					<a href="https://scitechdaily.com/researchers-find-omega-3-may-protect-babies-from-thc-exposure-in-the-womb/">Researchers Find Omega-3 May Protect Babies From THC Exposure in the Womb</a>
+									</li>
+											<li>
+					<a href="https://scitechdaily.com/ancient-fossils-reveal-massive-rhino-herds-once-roamed-nebraska/">Ancient Fossils Reveal Massive Rhino Herds Once Roamed Nebraska</a>
+									</li>
+					</ul>
+
+		</div>				</div>
+					
+			</div>
+		</div>
+		
+	
+			<div class="lower-footer classic-footer-lower">
+			<div class="ts-contain wrap">
+				<div class="inner">
+
+					<div class="copyright">
+						Copyright &copy; 1998 - 2025 SciTechDaily. All Rights Reserved.					</div>
+					
+												
+						<div class="links">
+							<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-251795" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-251795"><a href="https://scitechdaily.com/" title="Science and Technology News">Science News</a></li>
+<li id="menu-item-406354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406354"><a href="https://scitechdaily.com/about-us/" title="About SciTechDaily">About</a></li>
+<li id="menu-item-251798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251798"><a href="https://scitechdaily.com/contact/" title="Contact SciTechDaily.com">Contact</a></li>
+<li id="menu-item-49085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49085"><a href="https://scitechdaily.com/editorial-board/" title="SciTechDaily Editorial Board">Editorial Board</a></li>
+<li id="menu-item-43381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43381"><a href="//scitechdaily.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-43382" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43382"><a href="//scitechdaily.com/terms/">Terms of Use</a></li>
+</ul></div>						</div>
+						
+									</div>
+			</div>
+		</div>		
+			</footer>
+		
+	
+</div><!-- .main-wrap -->
+
+
+
+	<div class="search-modal-wrap" data-scheme="dark">
+		<div class="search-modal-box" role="dialog" aria-modal="true">
+
+			<form method="get" class="search-form" action="https://scitechdaily.com/">
+				<input type="search" class="search-field live-search-query" name="s" placeholder="Search..." value="" required />
+
+				<button type="submit" class="search-submit visuallyhidden">Submit</button>
+
+				<p class="message">
+					Type above and press <em>Enter</em> to search. Press <em>Esc</em> to cancel.				</p>
+						
+			</form>
+
+		</div>
+	</div>
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/images\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/scitech4\/*","\/wp-content\/themes\/smart-mag\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type='text/javascript'>
+          					TrendMD.register({journal_id: '79563', element: '#trendmd-suggestions', authors: 'Cell Press', url: window.location.href, title: 'How AI Is Learning to Think on Its Own Like Humans', abstract: '[caption id=\"attachment_322675\" align=\"aligncenter\" width=\"777\"] AI\u2019s ability to learn through thinking, akin to human cognitive processes, showcases its potential and limitations in mimicking human reasoning and adaptation. Credit: SciTechDaily.com[\/caption]\r\n\r\nFrom Einstein\u0027s thought experiments to the self-correcting capabilities of AI models, thought-based learning transcends human minds to influence artificial intelligence.\r\n\r\nNew research highlights how AI, like humans, learns through explanation, simulation, analogy, and reasoning without external inputs. This on-demand learning, beneficial for adapting knowledge to new contexts, illustrates similarities and pivotal differences between natural and artificial cognition, offering a unique lens to study human thought processes and AI\u0027s potential and limitations.\r\nLearning Through Thinking: Humans and AI\r\nSome of the greatest discoveries don\u2019t come merely from observations but from thinking. Einstein developed theories about relativity through thought experiments, and Galileo derived insights about gravity through mental simulations. A review published September 18 in the journal\u00a0Trends in Cognitive Sciences\u00a0shows that this process of thinking is not exclusive to humans. Artificial intelligence, too, is capable of self-correction and arriving at new conclusions through \u201clearning by thinking.\u201d\r\n\r\n\u201cThere are some recent demonstrations of what looks like learning by thinking in AI, particularly in large language models,\u201d says author Tania Lombrozo, a professor of psychology and co-director of the Natural and Artificial Minds initiative at Princeton University. \u201cSometimes ChatGPT will correct itself without being explicitly told. That\u2019s similar to what happens when people are engaged in learning by thinking.\u201d\r\nModes of Learning: From Microwaves to Moral Dilemmas\r\nLombrozo identified four examples of learning by thinking in humans and AI: learners can acquire new information without external input through explanation, simulation, analogy, and reasoning. In humans, explaining how a microwave works to a child might reveal the gaps in our understanding. Rearranging furniture in the living room often involves creating a mental image to simulate different layouts before making any physical changes. Downloading pirated software may initially seem morally acceptable until one draws an analogy to the theft of physical goods. If you know that a friend\u2019s birthday is on a leap day and tomorrow is a leap day, you can reason that your friend\u2019s birthday is tomorrow.\r\n\r\nAI shows similar learning processes. When asked to elaborate on a complex topic, AI may correct or refine its initial response based on the explanation it provides. The gaming industry uses simulation engines to approximate real-world outcomes, and models can use the outputs of simulations as inputs to learning. Asking a language model to draw analogies can lead it to answer questions more accurately than it would with simple questions. Prompting AI to engage in step-by-step reasoning can lead it to answers it would fail to reach with a direct query.\r\nExploring the Function and Value of Thought-Based Learning\r\n\u201cThis poses the question of why both natural and artificial minds have these characteristics. What function does learning by thinking serve? Why is it valuable?\u201d says Lombrozo. \u201cI argue that learning by thinking is a kind of \u2018on-demand learning.\u2019\u201d\r\n\r\nWhen you learn something new, you don\u2019t know how the information may serve you in the future. Lombrozo says people can squirrel away the knowledge for later\u2014until the context makes it relevant and worthwhile to expend the cognitive effort to think and learn.\r\nFuture Directions in Cognitive Sciences and AI\r\nLombrozo acknowledges the challenges in defining the boundaries between reasoning, learning, and other high-level cognitive functions, which is an area of debate within the field of cognitive sciences. The review also raises more questions, some of which Lombrozo plans to explore further, such as whether AI systems are actually \u201cthinking\u201d or simply mimicking the outputs of such processes.\r\n\r\n\u201cAI has gotten to the point where it\u2019s so sophisticated in some ways, but limited in others, that we have this opportunity to study the similarities and differences between human and artificial intelligence,\u201d says Lombrozo. \u201cWe can learn important things about human cognition through AI and improve AI by comparing it to natural minds. It\u2019s a pivotal moment where we\u2019re in this new position to ask these interesting, comparative questions.\u201d\r\n\r\nReference: \"Learning by thinking in natural and artificial minds\" by Tania Lombrozo, 18 September 2024, Trends in Cognitive Sciences.\r\nDOI: 10.1016\/j.tics.2024.07.007', publication_year: '2024', publication_month: '9' });
+          				</script>			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/scitechdaily.com\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https:\/\/scitechdaily.com\/news\/technology\/","name":"Technology"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https:\/\/scitechdaily.com\/how-ai-is-learning-to-think-on-its-own-like-humans\/","name":"How AI Is Learning to Think on Its Own Like Humans"}}]}</script>
+<link rel='stylesheet' id='cmtooltip-css' href='https://scitechdaily.com/wp-content/plugins/TooltipPro/assets/css/tooltip.min.css?ver=4.4.0' type='text/css' media='all' />
+<style id='cmtooltip-inline-css' type='text/css'>
+#tt {
+				z-index: 1500;
+		}
+        #tt #ttcont div.glossaryItemTitle {
+            width: calc(100% + 9);
+            border-top-left-radius: 6px;
+            border-top-right-radius: 6px;
+            padding: 0;
+            text-align: initial;
+            margin: -2px -7px 10px;
+
+					color: #000000 !important;
+		
+                    background-color: #cccccc;
+            border-top: 1px solid transparent;
+            border-bottom: 1px solid transparent;
+        
+					font-size: 13px !important;
+		        }
+
+		#tt #ttcont div.glossaryItemBody {
+		padding: 0;
+					font-size: 13px;
+				}
+		#tt #ttcont .mobile-link{
+					font-size: 13px;
+				}
+
+		.mobile-link a.glossaryLink {
+		color: #fff !important;
+		}
+		.mobile-link:before{content: "Term link:  "}
+
+		
+		
+		.tiles ul.glossaryList a {
+		min-width: 85px !important;
+		width:85px !important;
+		}
+		.tiles ul.glossaryList span { min-width:63px; width:63px;  }
+		.cm-glossary.tiles.big ul.glossaryList a { min-width:179px; width:179px }
+		.cm-glossary.tiles.big ul.glossaryList span { min-width:179px; width:179px; }
+
+				span.glossaryLink, a.glossaryLink {
+		border-bottom: dotted 1px #000000;					color: #666666 !important;
+				}
+		span.glossaryLink.temporary, a.glossaryLink.temporary {
+		border-bottom: dotted 1px ;		}
+		span.glossaryLink:hover, a.glossaryLink:hover {
+		border-bottom: solid 1px #333333;					color:#999999 !important;
+				}
+
+				.glossaryList .glossary-link-title {
+		font-weight: normal !important;
+		}
+
+		
+					#tt #tt-btn-close{ color: #222 !important}
+		
+		.cm-glossary.grid ul.glossaryList li:not(.the-index-letter)  { width: 200px !important}
+
+					#tt #tt-btn-close{
+			direction: rtl;
+			font-size: 20px !important
+			}
+		
+		
+					#tt #ttcont glossaryItemBody * {color: #ffffff}
+		
+
+		
+					#tt #ttcont a{color: #2EA3F2 !important}
+		
+		
+		
+					#ttcont {
+			box-shadow: 0px 0px 20px #666666;
+			-moz-box-shadow: 0px 0px 20px #666666;
+			-webkit-box-shadow: 0px 0px 20px #666666;
+			}
+					.cm-glossary.term-carousel .slick-slide,
+			.cm-glossary.tiles-with-definition ul > li { height: 250px !important}
+					.cm-glossary.tiles-with-definition ul {
+			grid-template-columns: repeat(auto-fill, 220px) !important;
+			}
+		        .cm-glossary.flipboxes-with-definition #glossaryList.glossaryList {
+        grid-template-columns: repeat(6, 1fr);
+        }
+        .cm-glossary.flipboxes-with-definition #glossaryList.glossaryList > li > div.term-block > .glossaryLinkMain,
+        .cm-glossary.flipboxes-with-definition #glossaryList.glossaryList > li > div.term-block > .glossaryLink,
+        .cm-glossary.flipboxes-with-definition #glossaryList.glossaryList .glossary_itemdesc .glossary-read-more-link {
+        background-color: #cecece;
+        }
+        .cm-glossary.flipboxes-with-definition #glossaryList.glossaryList > li,
+        .cm-glossary.flipboxes-with-definition #glossaryList.glossaryList > li > div.term-block > .glossaryLinkMain,
+        .cm-glossary.flipboxes-with-definition #glossaryList.glossaryList > li > div.term-block > .glossaryLink,
+        .cm-glossary.flipboxes-with-definition #glossaryList.glossaryList > li > div.term-block > .glossary_itemdesc {
+        height: 160px;
+        }
+		
+		.glossary-search-wrapper {
+		display: inline-block;
+				}
+
+
+		
+		input.glossary-search-term {
+				outline: none;
+																}
+
+
+		
+		
+		button.glossary-search.button {
+		outline: none;
+												}
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://scitechdaily.com/wp-includes/css/dashicons.min.css?ver=6.8' type='text/css' media='all' />
+<script type="text/javascript" id="smartmag-lazyload-js-extra">
+/* <![CDATA[ */
+var BunyadLazyConf = {"type":"smart"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://scitechdaily.com/wp-content/themes/smart-mag/js/lazyload.js?ver=10.3.0" id="smartmag-lazyload-js"></script>
+<script type="text/javascript" src="https://scitechdaily.com/wp-content/themes/smart-mag/js/jquery.mfp-lightbox.js?ver=10.3.0" id="magnific-popup-js"></script>
+<script type="text/javascript" src="https://scitechdaily.com/wp-content/themes/smart-mag/js/jquery.sticky-sidebar.js?ver=10.3.0" id="theia-sticky-sidebar-js"></script>
+<script type="text/javascript" id="smartmag-theme-js-extra">
+/* <![CDATA[ */
+var Bunyad = {"ajaxurl":"https:\/\/scitechdaily.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://scitechdaily.com/wp-content/themes/smart-mag/js/theme.js?ver=10.3.0" id="smartmag-theme-js"></script>
+<script type="text/javascript" src="https://scitechdaily.com/wp-content/themes/smart-mag/js/float-share.js?ver=10.3.0" id="smartmag-float-share-js"></script>
+<script type="text/javascript" src="https://scitechdaily.com/wp-includes/js/comment-reply.min.js?ver=6.8" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js?ver=1.0.0" id="remote_sdk-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://scitechdaily.com/wp-content/plugins/TooltipPro/assets/js/modernizr.min.js?ver=4.4.0" id="cm-modernizr-js-js"></script>
+<script type="text/javascript" id="tooltip-frontend-js-js-extra">
+/* <![CDATA[ */
+var cmtt_data = {"cmtooltip":{"placement":"horizontal","clickable":false,"close_on_moveout":true,"only_on_button":false,"touch_anywhere":false,"delay":0,"timer":0,"minw":200,"maxw":400,"top":5,"left":25,"endalpha":95,"zIndex":1500,"borderStyle":"none","borderWidth":"0px","borderColor":"#000000","background":"#666666","foreground":"#ffffff","fontSize":"13px","padding":"2px 12px 3px 7px","borderRadius":"6px","tooltipDisplayanimation":"no_animation","tooltipHideanimation":"no_animation","toolip_dom_move":false,"link_whole_tt":false,"close_button":true,"close_button_mobile":true,"close_symbol":"dashicons-no "},"ajaxurl":"https:\/\/scitechdaily.com\/wp-admin\/admin-ajax.php","post_id":"414195","mobile_disable_tooltips":"0","desktop_disable_tooltips":"0","tooltip_on_click":"0","exclude_ajax":"cmttst_event_save","footnote_background_color":"#eaf3ff","mobile_support":"","cmtooltip_definitions":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://scitechdaily.com/wp-content/plugins/TooltipPro/assets/js/tooltip.min.js?ver=4.4.0" id="tooltip-frontend-js-js"></script>
+        <script type="text/javascript">
+            var aweber_wpn_vars = {
+                plugin_base_path: 'https://scitechdaily.com/wp-content/plugins/aweber-web-form-widget/php/',
+                register_aweber_service_worker: '',
+            };
+        </script>
+
+        <div id="tt" role="tooltip" aria-label="Tooltip content" class="cmtt"></div>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'938fa6838c908943',t:'MTc0NjEwNjQwNS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
